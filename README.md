@@ -1,5 +1,7 @@
 # desafio-target-sistemas
 
+para rodar os resultados é necessario utilizar o node e roda comando node desafio.js no diretorio do "arquivo.js"
+
 1) Observe o trecho de código abaixo: int INDICE = 13, SOMA = 0, K = 0;
 Enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; }
 Imprimir(SOMA);
